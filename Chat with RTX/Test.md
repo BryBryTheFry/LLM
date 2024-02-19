@@ -7,7 +7,10 @@
 - Finished downloading without further issue
 
 ## Test With AI Model Default
+- Chat with RTX comes with a basic model
 
 ## Test With Local Files
+- Test Chat with RTX using pdf files.
 
 ## Test With YouTube Videos
+- Test Chat with RTX using YouTube video
